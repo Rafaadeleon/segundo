@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.margin{
+    font-size: 10px;
+    
+
+    
+    width: 25em;
+    height: 44em;
+    padding: 2px;
+    box-sizing: border-box;
+    border-radius: 8px 8px 8px 8px;
+    border: 2px solid #ffffff;
+    position: relative;
+    
+    margin: auto;
+    margin-top:14em;
+    margin-bottom:8px;
+}
+
+.yellowbox{
+    width: 58em;
+    height: 0em;
+    margin: auto;
+    margin-top: -552.5px;
+    margin-left: 29.2em;
+}
+
+.pc{
+    width: 17.4em;
+    height: 29em;
+    margin-top: 94px;
+    margin-left: 10em;
+    
+}
+
+.title{
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 290px;
+    color: #ffffff;
+    
+}
+
+
+
